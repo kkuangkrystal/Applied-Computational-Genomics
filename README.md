@@ -1,7 +1,14 @@
 # Applied-Computational-Genomics
 homework from Applied Computational Genomics Course at UU
 
-Public Repository for viewing. Intended for self-evaluation of
-Computational Genetic programming skills and database use.
+public repository intended for training purposes and self-evaluation
+of computational genetic programming skills and database use. 
 
-Krystal Kuang
+
+### Intended database + programming skills tested: 
+- UNIX commands
+- Biopython
+- MAFFT (Multiple Sequence Alignment)
+- Velvet commands (Genome assembly)
+- GeneMark
+- BLAST
